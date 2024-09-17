@@ -15,12 +15,16 @@
 
 Выбранные инструменты:
 IDE - VS Code c расширением [Calva](https://calva.io)
+
 Система сборки - [Leiningen](https://leiningen.org)
+
 Линтер - [clj-kondo](https://github.com/clj-kondo/clj-kondo?ysclid=m15fjc7n6v845024990)
+
 Тестирование - библиотека [test.check](https://clojure.org/guides/test_check_beginner)
+
 
 Выбранная книга: 
 [Clojure, Karthikeyan A K](https://clojure-book.gitlab.io)
-(https://ia801204.us.archive.org/7/items/clojure-book-2023-11-25/clojure.pdf)
+
 Если буду трогать ClojureScript: 
 [Learn ClojureScript, Andrew Meredith](https://www.learn-clojurescript.com)
